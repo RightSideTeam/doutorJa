@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#008391</color>
+    <color name="colorAccent">#008391</color>
+    <color name="branco">#ffffff</color>
+    <color name="cinza1">#bebebe</color>
+    <color name="cinza2">#808080</color>
+    <color name="BotãoEntrar">#278fce</color>
+    <color name="BotãoCadastrar">#48a55e</color>
+    <color name="Vermelho">#cc0000</color>
+</resources>

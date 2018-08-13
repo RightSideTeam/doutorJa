@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/papelparedelogin"
+    tools:context=".view.LoginActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="290dp"
+            android:src="@drawable/barradoutorja" />
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/googlebutton"
+            android:layout_width="251dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+        </com.google.android.gms.common.SignInButton>
+
+
+        <TextView
+            android:id="@+id/textViewLema"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="Sua consulta em 1 clique!"
+            android:textColor="@color/branco"
+            android:textSize="18dp" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

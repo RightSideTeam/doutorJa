@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".view.MinicursosActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:background="@color/colorAccent"
+            android:layout_gravity="center"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/barraminicurso" />
+
+
+        <ImageView
+            android:id="@+id/topicointernet"
+            android:layout_width="match_parent"
+            android:layout_height="117dp"
+            android:src="@drawable/topicointernet" />
+
+
+    <ImageView
+        android:id="@+id/topicomarketing"
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:src="@drawable/topicomarketing" />
+
+    <ImageView
+        android:id="@+id/topicogestao"
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:src="@drawable/topicogestao" />
+
+        <ImageView
+            android:id="@+id/topicoempreendedorismo"
+            android:layout_width="match_parent"
+            android:layout_height="117dp"
+            android:src="@drawable/topicoempreendedorismo" />
+
+    <ImageView
+        android:id="@+id/topicoinovacao"
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:src="@drawable/topicoinovacao" />
+
+    <ImageView
+        android:id="@+id/topicoanalise"
+        android:layout_width="match_parent"
+        android:layout_height="117dp"
+        android:src="@drawable/topicoanalise" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1016037660942",
+    "firebase_url": "https://doutorja-be404.firebaseio.com",
+    "project_id": "doutorja-be404",
+    "storage_bucket": "doutorja-be404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016037660942:android:cb71a0a3567f4bd3",
+        "android_client_info": {
+          "package_name": "com.rightside.doutorja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016037660942-54fdd55o2utc4g6chsdlvu45pa23fs8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rightside.doutorja",
+            "certificate_hash": "368abe21b5aa2a5435d1b2e4eec0ce907033f763"
+          }
+        },
+        {
+          "client_id": "1016037660942-vftg5u9gkdfe83h296a5q8q0oolidcva.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1016037660942-vftg5u9gkdfe83h296a5q8q0oolidcva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCII-5Fq0tzlSyXCW8qUBLS_tz3T6T03c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016037660942-vftg5u9gkdfe83h296a5q8q0oolidcva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

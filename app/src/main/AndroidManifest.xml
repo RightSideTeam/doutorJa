@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rightside.doutorja">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".view.SplashActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.EspecialidadeActivity" />
+        <activity android:name=".view.EspecialistaActivity" />
+        <activity android:name=".view.EspecialistaEscolhidoActivity" />
+        <activity android:name=".view.LoginActivity" />
+        <activity android:name=".view.FirebaseActivity" />
+        <activity android:name=".view.MainActivity" />
+        <activity android:name=".view.DiaDaSemanaActivity" />
+        <activity android:name=".view.HoraActivity" />
+        <activity android:name=".view.LoginEspecialistaActivity" />
+        <activity android:name=".view.AgendaMedicaActivity"/>
+        <activity android:name=".view.MinicursosActivity" />
+
+
+    </application>
+
+</manifest>

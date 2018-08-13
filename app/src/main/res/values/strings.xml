@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DoutorJá+</string>
+    <string name="title_especialidades">Especialidades</string>
+    <string name="title_minhas_consultas">Consultas</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_domicilio">Domicílio</string>
+    <string name="especialidades">Médicos</string>
+    <string name="cidade">Escolha a cidade:</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="digite_sua_senha_novamente">Confirme sua senha</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">Digite aqui o seu e-mail</string>
+    <string name="senha">Digite aqui a sua senha</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="n_o_possui_login">Cadastre-se</string>
+    <string name="entre_com_o_seu_login">Entre com o seu login</string>
+    <string name="j_possui_login">Já possui login?</string>
+    <string name="entre">ENTRE</string>
+    <string name="escolha_um_m_dico">Escolha um médico:</string>
+    <string name="data_de_nascimento">Data de nascimento</string>
+    <string name="erro_email_invalido">Este endreço de e-mail é inválido!</string>
+    <string name="entre_com_os_seus_dados">Entre com os seus dados: </string>
+    <string name="do_que_voc_precisa">Do que você precisa?</string>
+    <string name="nome_da_especialidade">Nome da especialidade</string>
+    <string name="shared_config">sharedConfig</string>
+    <string name="id">id</string>
+
+
+    <string-array name="cidades">
+        <item>Itaperuna</item>
+        <item>São José de Ubá</item>
+
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profissional_entre">Profissional? entre!</string>
+    <string name="marque_aqui">Marque Aqui</string>
+    <string name="confirme_sua_senha">Confirme sua senha</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_teste_final">TesteFinalActivity</string>
+    <string name="title_activity_teste_final1">Final1</string>
+    <string name="title_activity_teste_final2">Final2</string>
+    <string name="inicio">Início</string>
+    <string name="todo">TODO</string>
+    <string name="sua_consulta_em_1_clique">Sua consulta em 1 clique!</string>
+    <string name="sua_agenda">SUA AGENDA:</string>
+    <string name="valor_da_consulta">Valor da consulta: 200</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
